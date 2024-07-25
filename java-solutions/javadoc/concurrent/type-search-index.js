@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"info.kgeorgiy.ja.mikhailov.concurrent","l":"IterativeParallelism"},{"p":"info.kgeorgiy.java.advanced.concurrent","l":"ScalarIP"}];updateSearchResults();
